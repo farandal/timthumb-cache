@@ -8,3 +8,5 @@ https://code.google.com/p/timthumb/
 
 Project WebPage:
 http://www.binarymoon.co.uk/projects/timthumb/
+
+http://farandal.com
